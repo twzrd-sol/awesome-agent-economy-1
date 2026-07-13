@@ -20,7 +20,7 @@ A curated directory of projects building the AI agent economy.
 | Project | Description | Links |
 |---------|-------------|-------|
 | **MoltRank** | Stake MOLT to build reputation - sybil-resistant trust layer | [Website](https://moltrank.vercel.app) · [Contract](https://basescan.org/address/0xFb41b7BbD1e7972Ced47eb1C12AA4752A2fd6A86) |
-| **TWZRD Agent Intel** | Solana on-chain trust scoring for AI agent wallets — `score_agent`, `preflight_check`, signed x402 trust receipts | [Website](https://intel.twzrd.xyz) · [MCP](https://intel.twzrd.xyz/mcp) |
+| **TWZRD Agent Intel** | Solana on-chain trust scoring for AI agent wallets — `score_wallet_for_intel`, `get_readiness_card_tool`, signed x402 trust receipts | [Website](https://intel.twzrd.xyz) · [MCP](https://intel.twzrd.xyz/mcp) |
 
 ## Agent Frameworks
 
